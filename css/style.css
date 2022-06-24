@@ -745,7 +745,7 @@ box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12),
 }
 .footer-right {
     margin-left: 70px;
-    margin-right: 93px;
+    margin-right: auto;
 }
 
 .footer-title {
@@ -1130,4 +1130,7 @@ textarea:placeholder-shown {
     margin-right: auto;
     color: var(--main-btn-color);
     background-color: var(--accent-color);
+    font-weight: 700;
+    line-height: 1.87;
+    letter-spacing: 0.06em;
   }
